@@ -1,0 +1,11 @@
+https://www.projectpro.io/recipes/create-simulated-data-for-clustering-in-python
+
+https://youtu.be/J2cKZRSmQiQ
+
+https://github.com/queirozfcom/python-sandbox/blob/master/python3/notebooks/visualizing-machine-learning-models-post/confusion-matrix.ipynb
+
+https://github.com/PacktPublishing/Artificial-Intelligence-with-Python/blob/master/Chapter%2002/code/confusion_matrix.py
+
+=>
+https://colab.research.google.com/github/Tanu-N-Prabhu/Python/blob/master/Exploratory%20Data%20Analysis/Exploratory_data_Analysis_2.ipynb#scrollTo=s_QtFxfrJL8L
+=>
